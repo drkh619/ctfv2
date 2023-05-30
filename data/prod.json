@@ -1,0 +1,142 @@
+[
+  {
+    "id" : 1,
+    "name": "Luxe Leather Handbag",
+    "description": "Upgrade your style with this luxurious leather handbag. Spacious interior and elegant design.",
+    "price": 129.99,
+    "image": "../img/handbag.png"
+  },
+  {
+    "id" : 2,
+    "name": "Smartphone Power Bank",
+    "description": "Never run out of battery again! This portable power bank keeps your smartphone charged on the go.",
+    "price": 24.99,
+    "image": "../img/powerbank.png"
+  },
+  {
+    "id" : 3,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Immerse yourself in music with these high-quality wireless headphones. Crystal-clear sound and comfortable fit.",
+    "price": 59.99,
+    "image": "../img/whphone.png"
+  },
+  {
+    "id" : 4,
+    "name": "Designer Sunglasses",
+    "description": "Stay stylish and protected from the sun with these fashionable designer sunglasses. UV protection and trendy design.",
+    "price": 89.99,
+    "image": "../img/dsunglass.png"
+  },
+  {
+    "id" : 5,
+    "name": "Fitness Tracker Watch",
+    "description": "Track your fitness goals with this advanced fitness tracker watch. Heart rate monitoring and activity tracking features.",
+    "price": 79.99,
+    "image": "../img/fwatch.png"
+  },
+  {
+    "id" : 6,
+    "name": "Gourmet Coffee Blend",
+    "description": "Indulge in the rich flavors of this gourmet coffee blend. Made from carefully selected coffee beans.",
+    "price": 12.99,
+    "image": "../img/coffee.png"
+  },
+  {
+    "id" : 7,
+    "name": "Stylish Men's Watch",
+    "description": "Elevate your style with this sleek and sophisticated men's watch. Swiss movement and stainless steel strap.",
+    "price": 149.99,
+    "image": "../img/menswatch.png"
+  },
+  {
+    "id" : 8,
+    "name": "Deluxe Travel Backpack",
+    "description": "Travel in style with this deluxe backpack. Multiple compartments and padded straps for comfort and convenience.",
+    "price": 79.99,
+    "image": "../img/travbag.png"
+  },
+  {
+    "id" : 9,
+    "name": "Wireless Charging Pad",
+    "description": "Simplify your charging experience with this wireless charging pad. Compatible with various devices.",
+    "price": 34.99,
+    "image": "../img/wpod.png"
+  },
+  {
+    "id" : 10,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Enjoy your favorite music anywhere with this portable Bluetooth speaker. Powerful sound and long battery life.",
+    "price": 49.99,
+    "image": "../img/wspeaker.png"
+  },
+  {
+    "id" : 11,
+    "name": "Luxury Writing Pen",
+    "description": "Write in style with this luxury writing pen. Sleek design and smooth ink flow for a premium writing experience.",
+    "price": 39.99,
+    "image": "path/to/product11-image.jpg"
+  },
+  {
+    "id" : 12,
+    "name": "Handcrafted Leather Wallet",
+    "description": "Keep your essentials organized in this handcrafted leather wallet. Quality craftsmanship and timeless design.",
+    "price": 59.99,
+    "image": "path/to/product12-image.jpg"
+  },
+  {
+    "id" : 13,
+    "name": "Designer Perfume",
+    "description": "Indulge in the captivating fragrance of this designer perfume. Perfect for special occasions and everyday wear.",
+    "price": 99.99,
+    "image": "path/to/product13-image.jpg"
+  },
+  {
+    "id" : 14,
+    "name": "Gourmet Chocolate Box",
+    "description": "Satisfy your sweet tooth with this exquisite gourmet chocolate box. Assortment of premium chocolate flavors.",
+    "price": 19.99,
+    "image": "path/to/product14-image.jpg"
+  },
+  {
+    "id" : 15,
+    "name": "Digital SLR Camera",
+    "description": "Capture stunning photos with this advanced digital SLR camera. High-resolution sensor and versatile lens options.",
+    "price": 699.99,
+    "image": "path/to/product15-image.jpg"
+  },
+  {
+    "id" : 16,
+    "name": "Designer Silk Scarf",
+    "description": "Add a touch of elegance to your outfit with this designer silk scarf. Soft and luxurious feel.",
+    "price": 49.99,
+    "image": "path/to/product16-image.jpg"
+  },
+  {
+    "id" : 17,
+    "name": "Professional Chef Knife Set",
+    "description": "Upgrade your kitchen with this professional chef knife set. High-quality blades and ergonomic handles.",
+    "price": 149.99,
+    "image": "path/to/product17-image.jpg"
+  },
+  {
+    "id" : 18,
+    "name": "Wireless Noise-Canceling Earbuds",
+    "description": "Immerse yourself in music with these wireless noise-canceling earbuds. Superior sound quality and comfort.",
+    "price": 129.99,
+    "image": "path/to/product18-image.jpg"
+  },
+  {
+    "id" : 19,
+    "name": "Premium Leather Belt",
+    "description": "Complete your look with this premium leather belt. Classic design and durable construction.",
+    "price": 39.99,
+    "image": "path/to/product19-image.jpg"
+  },
+  {
+    "id" : 20,
+    "name": "Designer Wristwatch",
+    "description": "Make a statement with this designer wristwatch. Unique design and precision movement.",
+    "price": 199.99,
+    "image": "path/to/product20-image.jpg"
+  }
+]
